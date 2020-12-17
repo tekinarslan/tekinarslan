@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Selim!]
+### Hey 👋🏽, I'm Selim
 
 
 <a href="https://www.linkedin.com/in/kemal-selim-tekinarslan-a3780722/">

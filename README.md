@@ -5,10 +5,6 @@
   <img align="left" alt="Selim's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://profile.codersrank.io/user/nuhkoca">
-  <img align="left" alt="Nuh's Codersrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codersrank.svg" />
-</a>
-
 <br />
 <br />
 

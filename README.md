@@ -5,7 +5,7 @@
   <img align="left" alt="Selim's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-![](https://komarev.com/ghpvc/?tekinarslan)
+![](https://komarev.com/ghpvc/?username=tekinarslan)
 
 
 <br />
